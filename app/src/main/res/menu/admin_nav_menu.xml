@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="General">
+        <menu>
+            <item
+                android:id="@+id/admin_homenav"
+                android:icon="@drawable/home_nav"
+                android:title="HOME" />
+
+            <item
+                android:id="@+id/admin_account"
+                android:icon="@drawable/useraccount_nav"
+                android:title="ADD PRODUCTS"/>
+
+            <item
+                android:id="@+id/admin_logout"
+                android:icon="@drawable/logout_vector"
+                android:title="LOGOUT" />
+
+
+        </menu>
+    </item>
+
+</menu>
